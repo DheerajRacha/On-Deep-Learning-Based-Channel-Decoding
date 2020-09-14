@@ -3,7 +3,7 @@
 # On-Deep-Learning-Based-Channel-Decoding
 Tensorflow implementation of the paper ["On Deep Learning-Based Channel Decoding"](http://arxiv.org/abs/1701.07738)
 
-![Neural Network Decoder](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FOn-deep-learning-based-channel-decoding-Gruber-Cammerer%2Ff3b944046602765fc1efc94264d291e4052a1a84&psig=AOvVaw1lRmbClYFEeDdyWnj6bivZ&ust=1600165319446000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD477226OsCFQAAAAAdAAAAABAD)
+![Neural Network Decoder](results/nnd.png)
 
 This repository provides the complete code for the Keras (TensorFlow 2.2.0) implementation of the above paper with a brief report of the results and observations.
 
